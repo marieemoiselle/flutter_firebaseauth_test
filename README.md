@@ -1,7 +1,10 @@
 # Flutter 🫱🏼‍🫲🏽 Firebase Test App
 
-Hello!
+Hello! 🙋🏻‍♀️<br/>
 This is an example Flutter project that you can use in integrating Firebase Authentication.
+
+## 🐣 Instructions
+Integrate the Firebase Google Authentication in this Flutter project. In the ```LoginScreen``` the user must be able to sign in to Google after tapping the ```ElevatedButton```. Once sign in is successful, the user will be redirected to the ```WelcomeScreen``` that contains a ```Drawer``` with a ```Log out``` option. Once it is tapped, the user will be sent back to the ```LoginScreen```. Feel free to customize the colors, themes, and the overall feel of the application, after you successfully complied with the requirement.
 
 ## 🤔 What to prepare
 **Install Node.js**<br/>
