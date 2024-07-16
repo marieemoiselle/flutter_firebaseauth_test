@@ -51,6 +51,12 @@ To know more, you can watch this guide to implement the Google Sign In in Flutte
 [How To Implement Google Sign-In Functionality In Flutter With Firebase and FlutterfireCLI](https://www.youtube.com/watch?v=JEqlf0uBRyE).
 <br/>Thank you so much, [CodeWithDarkwa](https://www.youtube.com/@CodeWithDarkwa), it really helped!
 
+## 🔄️ Clone this Repository
+To create your copy of this repository, input the following command:
+```
+git clone https://github.com/<username/repository-name>.git
+```
+Change the values inside the ```<``` and ```>```.
 ## 🫶🏻 Acknowledgments
 👍🏻 [CodeWithDarkwa - YouTube](https://www.youtube.com/@CodeWithDarkwa)<br/>
 👍🏻 [Codemy.com - YouTube](https://www.youtube.com/@Codemycom)<br/>
